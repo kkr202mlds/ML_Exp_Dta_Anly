@@ -12,3 +12,15 @@ classifier.fit(X_train, y_train)
                    warm_start=False)
 y_pred = classifier.predict(X_test)
 ```
+
+Linear model types:-
+Regression
+Generalized linear models
+Linear regression
+Logistic regression
+Poisson distribution
+ElasticNet regression
+Linear predictor function
+Mixed models
+Multilevel structural equation modeling
+Ordinal regression
