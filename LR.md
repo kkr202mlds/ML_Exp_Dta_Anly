@@ -13,7 +13,7 @@ classifier.fit(X_train, y_train)
 y_pred = classifier.predict(X_test)
 ```
 
-Linear model types:-
+Linear Model types:-
 - Regression
 - Generalized linear models
 - Linear regression
@@ -24,3 +24,9 @@ Linear model types:-
 - Mixed models
 - Multilevel structural equation modeling
 - Ordinal regression
+
+Non-Linear Model Types:-
+- Polynomials: Power & Orthogonal.
+- Growth: Exponential, Power, Logarithmic.
+- Rates: Reciprocal.
+- Correlations.
