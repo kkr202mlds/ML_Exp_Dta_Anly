@@ -1,7 +1,7 @@
 ### Logistic Regression is a supervised machine learning algorithm used for binary classification problems in a discrete (non-continuous) outcome. Logistic regression predicts the discrete (non-continuous) output of a categorical dependent variable. i.e., Sigmoid(0, 1), Hypothesis(likelihood) and Log Loss Function
 
 ```
-LogisticRegression Model
+# LogisticRegression Model
 from sklearn.linear_model import LogisticRegression
 classifier = LogisticRegression(random_state = 0)
 classifier.fit(X_train, y_train)
