@@ -1,0 +1,1 @@
+### EDA stands for Exploratory Data Analysis. It is an approach to analyzing data sets to summarize their main characteristics, often with data visualization methods, find patterns and discover how different parts of the data are connected
