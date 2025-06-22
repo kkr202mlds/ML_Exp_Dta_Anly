@@ -1,4 +1,4 @@
-## A transformer is a type of artificial intelligence model that learns to understand and generate human-like text by analyzing patterns in large amounts of text data.  Transformer Architecture uses self-attention to transform one whole sentence into a single sentence.  Transformers enable machines to understand, interpret, and generate human language in a way that's more accurate than ever before
+### A transformer is a type of artificial intelligence model that learns to understand and generate human-like text by analyzing patterns in large amounts of text data.  Transformer Architecture uses self-attention to transform one whole sentence into a single sentence.  Transformers enable machines to understand, interpret, and generate human language in a way that's more accurate than ever before
 
 ```
 column_transformer = ColumnTransformer([
