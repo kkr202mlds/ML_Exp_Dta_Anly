@@ -1,5 +1,4 @@
-# ML_Exp_Dta_Anly
-Machine Learning IMDB Exploratory Data Analysis Transformer
+# IMDB Exploratory Data Analysis Transformer with Machine Learning
 * **Transformer models** (likely for text)
 * **Logistic Regression (LR)**
 * **K-Nearest Neighbors Classifier (KNC)**
