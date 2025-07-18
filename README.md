@@ -1,5 +1,9 @@
 # ML_Exp_Dta_Anly
 Machine Learning IMDB Exploratory Data Analysis Transformer
+* **Transformer models** (likely for text)
+* **Logistic Regression (LR)**
+* **K-Nearest Neighbors Classifier (KNC)**
+* **Decision Tree Classifier (DTC)**
 
 **📊 Exploratory Data Analysis (EDA)** is the process of analyzing and visualizing a dataset to:
 * **Understand its structure**
@@ -28,14 +32,7 @@ Machine Learning IMDB Exploratory Data Analysis Transformer
 
 ---
 
-* **Transformer models** (likely for text)
-* **Logistic Regression (LR)**
-* **K-Nearest Neighbors Classifier (KNC)**
-* **Decision Tree Classifier (DTC)**
-
----
-
-## 📁 Step-by-Step IMDb Movies EDA + ML Models
+## 📁 IMDb Movies EDA + ML Models
 
 ---
 
